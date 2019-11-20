@@ -1,0 +1,11 @@
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\obj\Debug\netcoreapp3.0\Linq-Challenge.csprojAssemblyReference.cache
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\obj\Debug\netcoreapp3.0\Linq-Challenge.AssemblyInfoInputs.cache
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\obj\Debug\netcoreapp3.0\Linq-Challenge.AssemblyInfo.cs
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\bin\Debug\netcoreapp3.0\Linq-Challenge.exe
+C:\Users\Oakley\desktop\workspace\Linq-Challenge\bin\Debug\netcoreapp3.0\Linq-Challenge.deps.json
+C:\Users\Oakley\desktop\workspace\Linq-Challenge\bin\Debug\netcoreapp3.0\Linq-Challenge.runtimeconfig.json
+C:\Users\Oakley\desktop\workspace\Linq-Challenge\bin\Debug\netcoreapp3.0\Linq-Challenge.runtimeconfig.dev.json
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\bin\Debug\netcoreapp3.0\Linq-Challenge.dll
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\bin\Debug\netcoreapp3.0\Linq-Challenge.pdb
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\obj\Debug\netcoreapp3.0\Linq-Challenge.dll
+c:\Users\Oakley\desktop\workspace\Linq-Challenge\obj\Debug\netcoreapp3.0\Linq-Challenge.pdb
